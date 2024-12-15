@@ -3,12 +3,16 @@ title: cmp0st
 theme: cactus
 params:
   description: |
-    Welcome to my blog
+    Calm backwater of the internet with inconsequential thoughts
   colorTheme: dark
   rss: true
   social:
   - name: github
     link: https://github.com/cmp0st
+  - name: rss
+    link: https://cmp0st.dev/index.xml
+  - name: bluesky
+    link: https://bsky.app/cmp0st
 menu:
   main:
   - name: Home
