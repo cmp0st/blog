@@ -1,5 +1,3 @@
-# 🪴 `cmp0st`
-
 Hello hello! This is my technical blog. My interests are in
 
 - Software development
