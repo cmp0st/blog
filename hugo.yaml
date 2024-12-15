@@ -1,0 +1,22 @@
+baseURL: https://cmp0st.dev
+title: cmp0st
+theme: cactus
+params:
+  description: |
+    Welcome to my blog
+  colorTheme: dark
+  rss: true
+  social:
+  - name: github
+    link: https://github.com/cmp0st
+menu:
+  main:
+  - name: Home
+    url: /
+    weight: 1
+  - name: All Posts
+    url: /posts
+    weight: 2
+  - name: About
+    url: /about
+    weight: 3
